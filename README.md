@@ -32,7 +32,7 @@ Currently a BCA Student, Google Cloud Ready Facilator Milestone Ultimate Achieve
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 
 ## 📊 GitHub Stats :
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devshah120&show_icons=true&count_private=true&theme=tokyonight)
+![Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=devshah120&show_icons=true&count_private=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=devshah120&theme=tokyonight"/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devshah120&langs_count=12&layout=compact&theme=tokyonight) &emsp; &nbsp;<img src="https://user-images.githubusercontent.com/101868279/196018622-2660de1b-f264-4ee4-bbf0-08dd36d162d0.svg" alt="Programming"/>
