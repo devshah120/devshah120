@@ -33,7 +33,7 @@ Currently a BCA Student, Google Cloud Ready Facilator Milestone Ultimate Achieve
 
 ## 📊 GitHub Stats :
 ![Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=devshah120&theme=tokyonight&show_icons=true&count_private=true)
-<img src="https://github-readme-stats.vercel.app/api?username=devshah120&theme=tokyonight"/>
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devshah120&langs_count=12&layout=compact&theme=tokyonight) &emsp; &nbsp;<img src="https://user-images.githubusercontent.com/101868279/196018622-2660de1b-f264-4ee4-bbf0-08dd36d162d0.svg" alt="Programming"/>
 
