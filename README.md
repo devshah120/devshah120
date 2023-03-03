@@ -3,7 +3,7 @@
 ## & I love Programming<br /><br /> <p align="left"> <img src="https://komarev.com/ghpvc/?%20username=devshah120&label=Views&color=blue&style=plastic" alt="devshah120" /> </p>
 
 # 💫 About Me :
-Currently a BCA Student, Google Cloud Ready Facilator Milestone Ultimate Achiever & Hacktoberfest 2022 Winner ^_^
+Currently a BCA Student, Google Cloud Ready Facilator Milestone Ultimate Achiever & SSIP Hackathon '22 Finalist ^_^
 - 🔭 I’m currently working on ... Enhancing my Programming Knowledge    
 - 🌱 I’m currently learning ... Data Structures and Algorithms
 - 😄 Pronouns: ... He/him
