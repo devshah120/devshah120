@@ -1,4 +1,4 @@
-### Hi there I am [Dev Shah!](https://devshah.tech) 👋
+### Hi there I am [Dev Shah!](https://devshah.) 👋
 ### An Avid learner & Developer
 ## & I love Programming<br /><br /> <p align="left"> <img src="https://komarev.com/ghpvc/?%20username=devshah120&label=Views&color=blue&style=plastic" alt="devshah120" /> </p>
 
@@ -38,3 +38,6 @@ Currently a BCA Student, Google Cloud Ready Facilator Milestone Ultimate Achieve
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devshah120&langs_count=12&layout=compact&theme=tokyonight&hide=shell,hack) &emsp; &nbsp;<img src="https://user-images.githubusercontent.com/101868279/196018622-2660de1b-f264-4ee4-bbf0-08dd36d162d0.svg" alt="Programming"/>
 
 [![@Dev Shah's Holopin board](https://holopin.io/api/user/board?user=devshah_120)](https://holopin.io/@devshah_120)
+
+## 📊 Contributions Graph :
+![snake gif](https://github.com/devshah120/devshah120/blob/main/Asset/snack.svg)
