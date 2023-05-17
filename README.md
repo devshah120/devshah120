@@ -39,5 +39,3 @@ Currently a BCA Student, Google Cloud Ready Facilator Milestone Ultimate Achieve
 
 [![@Dev Shah's Holopin board](https://holopin.io/api/user/board?user=devshah_120)](https://holopin.io/@devshah_120)
 
-## 📊 Contributions Graph :
-![snake gif](https://github.com/devshah120/devshah120/blob/main/Asset/snack.svg)
