@@ -1,6 +1,6 @@
-### Hi there I am [Dev Shah!](https://devshah.) 👋
+### Hi there I am [Dev Shah!](https://devshah.me) 👋
 ### An Avid learner & Developer
-## & I love Programming<br /><br /> <p align="left"> <img src="https://komarev.com/ghpvc/?%20username=devshah120&label=Views&color=blue&style=plastic" alt="devshah120" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?%20username=devshah120&label=Views&color=blue&style=plastic" alt="devshah120" /> </p>
 
 # 💫 About Me :
 Currently a MCA Student, Google Cloud Ready Facilator Milestone Ultimate Achiever & SSIP Hackathon '22 Finalist ^_^
