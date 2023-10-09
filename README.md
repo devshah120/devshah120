@@ -1,4 +1,4 @@
-### Hi there I am [Dev Shah!](https://devshah.me) 👋
+### Hi there I am [Dev Shah!](https://shahdev.me) 👋
 ### An Avid learner & Developer
 <p align="left"> <img src="https://komarev.com/ghpvc/?%20username=devshah120&label=Views&color=blue&style=plastic" alt="devshah120" /> </p>
 
